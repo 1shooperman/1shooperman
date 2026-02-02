@@ -16,7 +16,7 @@ Husband, father of two, occasional writer, and future grown-up who believes tech
 
 ### What I do
 
-- **AGL Consulting** — [aglflorida.com](https://aglflorida.com/) — Agentic integrations, Agile coaching, automation kickstart, fractional CTO, and team coaching. Also a staging ground for dev projects and ideas.
+- **AGL Consulting** — [aglflorida.com](https://aglflorida.com/) — Consulting work. Also a staging ground for dev projects and ideas.
 - **Personal site & blog** — [brandonshoop.com](https://brandonshoop.com/) — Sporadic but honest writing about ADHD, technology, and building things when your brain works a little sideways.
 - **Code** — Repos here range from MCP servers and Cursor tooling to deployment demos, automation, and side projects across TypeScript, PHP, JavaScript, Go, Python, Java, and others.
 
