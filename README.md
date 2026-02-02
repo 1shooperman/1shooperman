@@ -17,6 +17,7 @@ Husband, father of two, occasional writer, and future grown-up who believes tech
 ### What I do
 
 - **AGL Consulting** — [aglflorida.com](https://aglflorida.com/) — Consulting work. Also a staging ground for dev projects and ideas.
+- **S&C Advisory** - [spark-code.com/](https://spark-code.com/) - Spark & Code combines hands-on advisory with a venture studio model so we can partner deeply, share risk, and build companies that stand on their own
 - **Personal site & blog** — [brandonshoop.com](https://brandonshoop.com/) — Sporadic but honest writing about ADHD, technology, and building things when your brain works a little sideways.
 - **Code** — Repos here range from MCP servers and Cursor tooling to deployment demos, automation, and side projects across TypeScript, PHP, JavaScript, Go, Python, Java, and others.
 
