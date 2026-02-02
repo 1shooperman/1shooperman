@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Brandon Shoop**. This repo is my GitHub profile—the place that shows up when someone visits [github.com/1shooperman](https://github.com/1shooperman).
+I'm **Brandon**. This repo is my GitHub profile—the place that shows up when someone visits [github.com/1shooperman](https://github.com/1shooperman).
 
 ### About
 
